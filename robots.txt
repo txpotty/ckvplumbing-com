@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ckvplumbing.com/sitemap.xml
